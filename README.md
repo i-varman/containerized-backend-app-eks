@@ -21,7 +21,6 @@ Containerized a Flask backend, pushed the image to Amazon ECR, and deployed it t
 | **Cluster** | `nextwork-eks-cluster` (Amazon EKS, `us-east-1`) |
 | **Registry** | Amazon ECR |
 | **Tooling** | Docker, AWS CLI, eksctl, kubectl |
-| **Time taken** | ~60 minutes |
 | **Hardest part** | Fixing YAML indentation errors in the manifest files |
 
 ## Architecture / Workflow
